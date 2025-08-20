@@ -1,3 +1,4 @@
+include nodriver/py.typed
 recursive-include nodriver/core *
 recursive-include nodriver/cdp *
 global-exclude */__pycache__/*
